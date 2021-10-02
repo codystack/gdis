@@ -2,14 +2,12 @@
 <html lang="en">
 <head>
 	<title>Login :: GDIS&trade;</title>
-	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="ThankGod Okoro">
-	<meta name="description" content="Bootstrap based Creative Agency Portfolio Theme">
-
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
+	<meta name="keywords" content="Growing Digital Income Store Agency | helping you save your passive income" />
+    <meta name="description" content="Growing Digital Income Store Agency, Let's help you grow your income " /> 
+    <meta name="author" content="ThankGod Okoro"/>
+	<link rel="shortcut icon" href="assets/images/favicon.png">
 	<!-- Google Font -->
 	<link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Rubik:wght@400;500;700&family=Spartan:wght@400;700;900&display=swap" rel="stylesheet">
 
@@ -38,7 +36,14 @@
 			<!-- Left START -->
 			<div class="col-md-12 col-lg-4 col-xl-3 d-md-flex align-items-center bg-primary vh-lg-100">
 				<div class="w-100 p-3 p-lg-5 py-5 text-white-force">
-					<h4 class="font-weight-light">GDIS Agency&trade;</h4>
+					<div class="justify-content-center align-self-center">
+						<!-- Logo START -->
+						<a class="navbar-brand" href="index.html">
+							<img src="assets/images/weblogo-white.svg">
+						</a>
+						<!-- Logo END -->
+					</div>
+					
 					<ul class="list-group list-group-borderless mt-4">
 						<li class="list-group-item text-white"><i class="fas fa-check"></i>Fund account with USSD</li>
 						<li class="list-group-item text-white"><i class="fas fa-check"></i>Save with ease</li>
@@ -206,6 +211,7 @@
 								</div>
 							</form>
 							<!-- Form END -->
+							<div class="bg-dark-overlay-dotted py-2 my-4"></div>
 						</div>
 					</div>
 				</div>

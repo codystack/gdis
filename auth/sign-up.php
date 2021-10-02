@@ -5,12 +5,11 @@
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Bootstrap based Creative Agency Portfolio Theme">
+	<meta name="keywords" content="Growing Digital Income Store Agency | helping you save your passive income" />
+    <meta name="description" content="Growing Digital Income Store Agency, Let's help you grow your income " /> 
+    <meta name="author" content="ThankGod Okoro"/>
+	<link rel="shortcut icon" href="assets/images/favicon.png">
 
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
-	<!-- Google Font -->
 	<link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Rubik:wght@400;500;700&family=Spartan:wght@400;700;900&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
@@ -38,7 +37,14 @@
 			<!-- Left START -->
 			<div class="col-md-12 col-lg-4 col-xl-3 d-md-flex align-items-center bg-dark vh-lg-100">
 				<div class="w-100 p-3 p-lg-5 py-5 text-white-force">
-					<h4 class="font-weight-light">GDIS Agency&trade;</h4>
+					<div class="justify-content-center align-self-center">
+						<!-- Logo START -->
+						<a class="navbar-brand" href="index.html">
+							<img src="assets/images/weblogo-white.svg">
+						</a>
+						<!-- Logo END -->
+					</div>
+
 					<ul class="list-group list-group-borderless mt-4">
                         <li class="list-group-item text-white"><i class="fas fa-check"></i>Fund account with USSD</li>
 						<li class="list-group-item text-white"><i class="fas fa-check"></i>Save with ease</li>
@@ -103,10 +109,25 @@
 							<form class="mt-4">
 								<!-- Email -->
 							  <div class="mb-3">
+							    <label class="form-label" for="exampleInputFirstName">First Name</label>
+							    <input type="text" class="form-control" id="exampleInputFirstName" aria-describedby="firstNameHelp" placeholder="First Name">
+							  </div>
+
+							  <div class="mb-3">
+							    <label class="form-label" for="exampleInputLastName">Last Name</label>
+							    <input type="text" class="form-control" id="exampleInputLastName" aria-describedby="lastNameHelp" placeholder="Last Name">
+							  </div>
+
+							  <div class="mb-3">
+							    <label class="form-label" for="exampleInputPhone">Phone No.</label>
+							    <input type="tel" class="form-control" id="exampleInputPhone" aria-describedby="phoneHelp" placeholder="Phone number">
+							  </div>
+
+							  <!--<div class="mb-3">
 							    <label class="form-label" for="exampleInputEmail1">Email address</label>
 							    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail">
 							    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-							  </div>
+							  </div>-->
 							  <!-- Password -->
 							  <div class="mb-3">
 							    <label class="form-label" for="exampleInputPassword1">Password</label>
@@ -135,13 +156,6 @@
 							<!-- Form END -->
 							<div class="bg-dark-overlay-dotted py-2 my-4"></div>
 
-							<div class="text-center">
-								<p>Sign up with your social network for quick access</p>
-								<ul class="list-unstyled d-lg-flex mt-3 justify-content-center">
-									<li class="me-3"><a href="sign-up.html#" class="btn bg-facebook d-inline-block"><i class="fab fa-facebook-f me-2"></i> Sign up with Facebook</a></li>
-									<li class="me-3"><a href="sign-up.html#" class="btn bg-google d-inline-block"><i class="fab fa-google me-2"></i> Sign up with google</a></li>
-								</ul>
-							</div>
 						</div>
 					</div>
 				</div>

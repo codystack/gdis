@@ -10,11 +10,11 @@ include "./components/navbar.php";
       <div class="overflow-hidden">
         <div class="container content-space-1 content-space-md-2">
           <div class="row justify-content-sm-center">
-            <div class="col-sm-10 col-md-8 col-lg-7">
+            <div class="col-sm-10 col-md-8 col-lg-10">
               <!-- Heading -->
               <div class="text-center mb-7">
-                <h1 class="display-4 text-primary">Our mission is to make work <span class="text-warning">meaningful</span></h1>
-                <p class="lead">We cut through complexity, empowering businesses to challenge the status quo, create unlimited opportunities – and change the world.</p>
+                <h1 class="display-4 text-primary">A growth engine for <span class="text-warning">everyone</span> and every <span class="text-warning">business</span></h1>
+                <p class="lead">Secured, Reliable, No hidden Charges & Instant Withdrawl</p>
               </div>
               <!-- End Heading -->
             </div>
@@ -35,11 +35,11 @@ include "./components/navbar.php";
             <!-- End Background Shapes -->
           </div>
 
-          <div class="text-center">
-            <a class="btn btn-outline-primary" href="page-careers.html">
+          <!--<div class="text-center">
+            <a class="btn btn-outline-primary" href="careers">
               Join us | Explore roles <i class="bi-chevron-right small ms-1"></i>
             </a>
-          </div>
+          </div>-->
         </div>
       </div>
       <!-- End Hero -->
@@ -50,8 +50,9 @@ include "./components/navbar.php";
           <div class="col-sm-10 col-md-8 col-lg-7">
             <!-- Heading -->
             <div class="mb-7">
-              <h3>Our vision</h3>
-              <p>For as long as there have been cities, the public square has been a fundamental part of the urban landscape - an open, approachable space to meet and engage with friends and neighbours. Space aims to capture this spirit of bringing people together in an exciting, welcoming environment.</p>
+              <h3>Who we are</h3>
+              <p>Growing Digital Income Store is a platform that eradicates the stress, errors and inconveniences in daily contribution in terms of savings and withdrawal. This platform brings to you at your door step an easier and digital means of daily saving. We are a registered limited liability company incorporated under the Companies and Allied Matters Act (CAMA) and Special Control Unit Against Money Laundering (SCUML) and subsequently licensed to operate in Nigeria at large.</p>
+              <p>Growing Digital Income Store is committed to being honest and upfront with customers, while minimizing the inconveniences that accompany saving money. The business aims for consistent strong financial performance, as measured by growth in referrals.</p>
             </div>
             <!-- End Heading -->
 
@@ -75,8 +76,8 @@ include "./components/navbar.php";
                 </div>
 
                 <div class="flex-grow-1 ms-4">
-                  <h6>High quality Co-Living spaces</h6>
-                  <p>Our fully furnished spaces are designed and purpose-built with Co-Living in mind, featuring high-end finishes and amenities that go far beyond traditional apartment buildings.</p>
+                  <h6>Vision</h6>
+                  <p>Bringing to your doorstep Best, Fast and Easy means of saving and growing your money.</p>
                 </div>
               </div>
               <!-- End Media -->
@@ -94,8 +95,8 @@ include "./components/navbar.php";
                 </div>
 
                 <div class="flex-grow-1 ms-4">
-                  <h6>Fostering vibrant communities</h6>
-                  <p>Our passion is bringing people together. Beyond creating beautiful spaces, we provide shared experiences.</p>
+                  <h6>Mission</h6>
+                  <p>Growing Digital Income Store brings savings which reduces expenses and helps you set aside money for future expenses.</p>
                 </div>
               </div>
               <!-- End Media -->
@@ -113,8 +114,8 @@ include "./components/navbar.php";
                 </div>
 
                 <div class="flex-grow-1 ms-4">
-                  <h6>Simple and all-inclusive</h6>
-                  <p>We worry about the details so that our residents don't have to. From our online application process to simple, all-inclusive billing we aim to make the living experience as effortless as possible.</p>
+                  <h6>Our Motto</h6>
+                  <p>Growing Digital Income Store <em>...helping you to grow</em></p>
                 </div>
               </div>
               <!-- End Media -->
@@ -130,22 +131,22 @@ include "./components/navbar.php";
       <div class="container-fluid">
         <div class="row align-items-end gx-2 gx-lg-3 mb-2 mb-lg-3">
           <div class="col-3 d-none d-md-block" style="margin-bottom: -5rem;">
-            <img class="img-fluid w-100" src="assets/img/364x268/img1.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/about1.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
 
           <div class="col-6 col-md-3">
-            <img class="img-fluid w-100" src="assets/img/265x290/img1.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/about2.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
 
           <div class="col-6 col-md-3">
-            <img class="img-fluid w-100" src="assets/img/387x290/img1.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/dsfds.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
 
           <div class="col-3 d-none d-md-block" style="margin-bottom: -5rem;">
-            <img class="img-fluid w-100" src="assets/img/364x268/img2.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/imgxx.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
         </div>
@@ -153,12 +154,12 @@ include "./components/navbar.php";
 
         <div class="row gx-2 gx-lg-3">
           <div class="col-6 col-md-3 offset-md-3">
-            <img class="img-fluid w-100" src="assets/img/387x290/img2.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/unhi.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
 
           <div class="col-6 col-md-3">
-            <img class="img-fluid w-100" src="assets/img/265x290/img2.jpg" alt="Image Description">
+            <img class="img-fluid w-100" src="assets/img/about3.jpg" alt="Image Description">
           </div>
           <!-- End Col -->
         </div>
@@ -170,13 +171,43 @@ include "./components/navbar.php";
       <div class="container content-space-1 content-space-md-3">
 
         <!-- Info -->
+        <!--
         <div class="text-center">
           <p class="mb-0">Want to join us?</p>
-          <a class="link" href="page-careers.html">See all opening positions <i class="bi-chevron-right small ms-1"></i></a>
-        </div>
+          <a class="link" href="careers">See all opening positions <i class="bi-chevron-right small ms-1"></i></a>
+        </div>-->
         <!-- End Info -->
       </div>
-      <!-- End Team -->
+      
+      <div class="bg-soft-primary-light">
+        <div class="container content-space-1 content-space-md-3">
+          <div class="row">
+            <div class="col-md-5 col-lg-6 mb-5 mb-lg-0">
+              <h3>Ready to get started?</h3>
+              <p class="fs-6">The easiest way to save money in few seconds.<br> Secured & No hidden charges</p>
+            </div>
+            <!-- End Col -->
+
+            <div class="col-md-7 col-lg-6">
+              <form>
+                <!-- Input Card -->
+                <div class="input-card input-card-sm mb-3">
+                  <div class="input-card-form">
+                    <input type="text" class="form-control form-control-lg" placeholder="Enter email" aria-label="Enter email">
+                  </div>
+                  <button type="button" class="btn btn-primary btn-lg">Get Started</button>
+                </div>
+                <!-- End Input Card -->
+              </form>
+
+              <a class="link" href="auth/sign-up">Create a free account <i class="bi-chevron-right small ms-1"></i></a>
+            </div>
+            <!-- End Col -->
+          </div>
+          <!-- End Row -->
+        </div>
+      </div>
+      
     </main>
 
 <?php include "./components/footer.php"; ?>  

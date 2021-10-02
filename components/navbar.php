@@ -27,7 +27,7 @@
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="faq">How it Works</a>
+                <a class="nav-link" href="how-it-works">How it Works</a>
               </li>
 
               <li class="nav-item">

@@ -16592,7 +16592,7 @@ input[type=number] {
     height: calc(100% - 15%);
     display: block;
     content: '';
-    background: linear-gradient(to right,rgba(255,255,255,0) 53%,rgba(0,189,142,.1) 53%)
+    background: linear-gradient(to right,rgba(255,255,255,0) 53%,rgb(214 242 254) 53%)
 }
 
 @media (max-width: 767.98px) {
@@ -16601,7 +16601,7 @@ input[type=number] {
     }
 
     .banner-half-end::after {
-        background: linear-gradient(to right,rgba(255,255,255,0) 0,rgba(0,189,142,.1) 0)
+        background: linear-gradient(to right,rgba(255,255,255,0) 0,rgb(214 242 254) 0)
     }
 }
 

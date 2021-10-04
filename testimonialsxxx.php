@@ -1,28 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" dir="">
-  <head>
-    <!-- Required Meta Tags Always Come First -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Title -->
-    <title>Customer Stories | Space - Multipurpose Responsive Template</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico">
-
-    <!-- Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-
-    <!-- CSS Implementing Plugins -->
-    <link rel="stylesheet" href="assets/css/vendor.min.css">
-
-    <!-- CSS Space Template -->
-    <link rel="stylesheet" href="assets/css/theme.min-v=1.0.css">
-  </head>
-
-  <body>
-    <!-- ========== HEADER ========== -->
+<?php
+include "./components/header.php";
+?>
     <header id="header" class="navbar navbar-expand-lg navbar-light navbar-right bg-white">
       <div class="container">
         <nav class="js-mega-menu navbar-nav-wrap">

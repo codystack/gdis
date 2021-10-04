@@ -1,18 +1,18 @@
 <?php
 include "./components/header.php";
-include "./components/navbar.php";
+include "./components/navbar-light.php";
 ?>
 
     <main id="content" role="main">
       <!-- Hero -->
-      <div class="content-space-b-3">
+      <div class="content-space-b-3 vh-100">
         <div class="bg-soft-primary-light" style="background-image: url(assets/img/checked-pattern-blue1.png);background-repeat: no-repeat;background-size: cover;">
           <div class="container">
-            <div class="row justify-content-center justify-content-lg-between">
+            <div class="row justify-content-center justify-content-lg-between pt-5">
               <div class="col-md-6 content-space-t-1 content-space-md-1">
                 <!-- Heading -->
-                <div class="mb-7">
-                  <h1 class="display-4 text-primary mb-4 mb-md-5">The <span class="text-warning">easy way</span> to save your money.</h1>
+                <div class="mb-8 mt-9">
+                  <h1 class="display-3 text-primary mb-5 mb-md-6">The <span class="text-primary">easy way</span> to save your money.</h1>
                   <p class="mt-5">GDIS helps over 2 million customers achieve their financial<br>goals by helping them save with ease.</p>
                 </div>
                 <!-- End Heading -->
@@ -154,43 +154,6 @@ include "./components/navbar.php";
       </div>
       <!-- End Features -->
 
-      <!-- Features -->
-      <div class="container overflow-hidden content-space-b-1 content-space-b-md-3">
-        <div class="row justify-content-end align-items-md-center">
-          <div class="col-md-6 mb-7 mb-md-0">
-            <!-- Mobile Device -->
-            <figure class="device-mobile text-center mx-auto">
-              <div class="device-mobile-frame">
-                <img class="device-mobile-img" src="assets/img/240x480/img4.jpg" alt="Image Description">
-              </div>
-
-              <div class="position-absolute top-50 translate-middle-y zi-n1" style="left: -7rem;">
-                <img class="img-fluid" src="assets/svg/components/shape-7.svg" alt="SVG" style="width: 7rem;">
-              </div>
-            </figure>
-            <!-- End Mobile Device -->
-          </div>
-          <!-- End Col -->
-
-          <div class="col-md-6">
-            <div class="p-md-5 p-lg-7">
-              <!-- Heading -->
-              <div class="mb-7">
-                <h3>And when the unexpected happens, get cash instantly</h3>
-                <p>Emergencies shouldn’t put you into debt. Use Space Cashout to access money in a pinch — it'll be repaid from your next paycheck automatically.</p>
-                <p>Funds are available instantly with your Space debit card.</p>
-              </div>
-              <!-- End Heading -->
-
-              <a class="link" href="landing-services-wallet.html#">Learn more about Cashout <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Col -->
-        </div>
-        <!-- End Row -->
-      </div>
-      <!-- End Features -->
-
 
 
       <!-- Features -->
@@ -276,7 +239,7 @@ include "./components/navbar.php";
           </div>
 
           <!-- Image -->
-          <div class="d-none d-md-block col-md-5 position-absolute top-0 end-0 bg-img-center h-100" style="background-image: url('assets/img/950x950/img7.jpg');"></div>
+          <div class="d-none d-md-block col-md-5 position-absolute top-0 end-0 bg-img-center h-100" style="background-image: url('assets/img/gdis-features.jpg');"></div>
           <div class="d-md-none">
             <img class="img-fluid" src="assets/img/950x950/img7.jpg" alt="Image Description">
           </div>
@@ -355,7 +318,7 @@ include "./components/navbar.php";
       <!-- End Cards -->
 
       <!-- Testimonials -->
-      <div class="bg-soft-warning">
+      <div class="bg-soft-primary">
         <div class="container content-space-1 content-space-md-3">
           <!-- Heading -->
           <div class="w-lg-65 text-center mx-lg-auto mb-7">
@@ -507,30 +470,6 @@ include "./components/navbar.php";
         </div>
       </div>
       <!-- End Testimonials -->
-
-        <!-- CTA -->
-      <div class="container content-space-1">
-        <div class="row align-items-md-center">
-          <div class="col-md-5 col-lg-6 mb-5 mb-lg-0">
-            <div class="text-center">
-              <img class="img-fluid" src="assets/img/illustrations/yelling.png" alt="Image Description" style="max-width: 17rem;">
-            </div>
-          </div>
-          <!-- End Col -->
-
-          <div class="col-md-7 col-lg-6">
-            <div class="mb-4">
-              <h4>Your data privacy and security are a top concern for us.</h4>
-            </div>
-            <!-- End Row -->
-
-            <a class="link" href="landing-services-growth.html#">Learn more <i class="bi-chevron-right small ms-1"></i></a>
-          </div>
-          <!-- End Col -->
-        </div>
-        <!-- End Row -->
-      </div>
-      <!-- End CTA -->
     </main>
     <!-- ========== END MAIN CONTENT ========== -->
 

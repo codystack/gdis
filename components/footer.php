@@ -241,6 +241,13 @@
           offset: 10
         })
 
+        HSBsValidation.init('.js-validate', {
+          onSubmit: data => {
+            data.event.preventDefault()
+            alert('Submited')
+          }
+        })
+
         new HSScrollspy('#navbarVerticalNavMenu', {
           breakpoint: 'lg'
         })

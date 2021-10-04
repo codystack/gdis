@@ -11,7 +11,7 @@ include "./components/navbar.php";
             <div class="col-md-7 position-relative zi-1 content-space-1 content-space-md-3">
               <!-- Heading -->
               <div class="mb-5">
-                <h1 class="display-4 text-primary">Save money on your own <span class="text-warning">terms.</span>
+                <h1 class="display-4 text-primary">Save money on your own terms.
                 </h1>
               </div>
               <!-- End Heading -->

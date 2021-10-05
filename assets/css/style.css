@@ -469,9 +469,9 @@ progress {
 }
 
 .display-2 {
-    font-size: calc(1.575rem + 3.9vw);
-    font-weight: 700;
-    line-height: 1.2
+    font-size: calc(1.675rem + 4.9vw);
+    font-weight: 800;
+    line-height: 1.0
 }
 
 @media (min-width: 1200px) {
@@ -495,7 +495,7 @@ progress {
 .display-4 {
     font-size: calc(1.5rem + 3vw);
     font-weight: 700;
-    line-height: 1.2
+    line-height: 1.0
 }
 
 @media (min-width: 1200px) {
@@ -18842,7 +18842,6 @@ input[type=number] {
 .device-mobile-img {
     max-width: 100%;
     height: auto;
-    border-radius: 1.6rem
 }
 
 .device-browser {

@@ -1,19 +1,19 @@
 <?php
 include "./components/header.php";
-include "./components/navbar-light.php";
+include "./components/navbar.php";
 ?>
 
     <main id="content" role="main">
       <!-- Hero -->
-      <div class="content-space-b-3 vh-100">
-        <div class="bg-soft-primary-light" style="background-image: url(assets/img/checked-pattern-blue1.png);background-repeat: no-repeat;background-size: cover;">
+      <div class="">
+        <div class="bg-soft-primary-light">
           <div class="container">
-            <div class="row justify-content-center justify-content-lg-between pt-5">
-              <div class="col-md-6 content-space-t-1 content-space-md-1">
+            <div class="row justify-content-center justify-content-lg-between">
+              <div class="col-md-6">
                 <!-- Heading -->
                 <div class="mb-8 mt-9">
-                  <h1 class="display-3 text-primary mb-5 mb-md-6">The <span class="text-primary">easy way</span> to save your money.</h1>
-                  <p class="mt-5">GDIS helps over 2 million customers achieve their financial<br>goals by helping them save with ease.</p>
+                  <h1 class="display-2 text-primary mb-5 mb-md-6">Akawó now at your finger tips</h1>
+                  <p class="mt-5">GDIS helps you achieve your financial goals by providing a secured way to save and with ease. The saving you can access and transfer at anytime.</p>
                 </div>
                 <!-- End Heading -->
 
@@ -25,37 +25,35 @@ include "./components/navbar-light.php";
                 </div>
 
               </div>
-              <!-- End Col -->
+              
+              
+              <div class="col-sm-10 col-md-6 col-lg-6 mt-7 text-end">
+                <img class="img-fluid" src="assets/img/slide1.png" alt="Image Description">
+              </div>
 
-              <div class="col-sm-10 col-md-6 col-lg-5">
+              <!--<div class="col-sm-10 col-md-6 col-lg-5">
                 <div class="row gx-2 transform-y-5rem">
                   <div class="col-6">
                     <div class="d-grid gap-2">
-                      <!-- Images -->
                       <div class="d-none d-md-block bg-img-center" style="background-image: url('assets/img/img11.jpg'); height: 18.25rem;"></div>
                       <div class="d-none d-md-block bg-img-center" style="background-image: url('assets/img/imgxx.jpg'); height: 20.25rem;"></div>
                       <img class="d-md-none img-fluid w-100" src="assets/img/img11.jpg" alt="Image Description">
                       <img class="d-md-none img-fluid w-100" src="assets/img/imgxx.jpg" alt="Image Description">
-                      <!-- End Images -->
+                      
                     </div>
                   </div>
-                  <!-- End Col -->
 
                   <div class="col-6">
                     <div class="d-grid gap-2">
-                      <!-- Images -->
                       <div class="d-none d-md-block bg-img-center" style="background-image: url('assets/img/hmeimg3.jpg'); height: 22rem;"></div>
                       <div class="d-none d-md-block bg-img-center" style="background-image: url('assets/img/imgxxx.jpg'); height: 16rem;"></div>
                       <img class="d-md-none img-fluid w-100" src="assets/img/imgxx.jpg" alt="Image Description">
                       <img class="d-md-none img-fluid w-100" src="assets/img/imgxxx.jpg" alt="Image Description">
-                      <!-- End Images -->
+                      
                     </div>
                   </div>
-                  <!-- End Col -->
                 </div>
-                <!-- End Row -->
-              </div>
-              <!-- End Col -->
+              </div>-->
             </div>
             <!-- End Row -->
           </div>
@@ -68,21 +66,17 @@ include "./components/navbar-light.php";
       <div class="container overflow-hidden content-space-1 content-space-md-3">
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-7">
-          <h3>With over 25 million active customers,<br>we’re on a mission</h3>
-          <p class="fs-6">A mission to focus on the three things most important to us.</p>
+          <h3 class="display-4">Keep your money<br>where it's safe</h3>
+          <p class="fs-6">We believe you deserve your hard-earned money<br>as soon as possible.</p>
         </div>
         <!-- End Heading -->
 
         <div class="row justify-content-end align-items-md-center">
           <div class="col-md-6 mb-7 mb-md-0">
             <!-- Mobile Device -->
-            <figure class="device-mobile text-center mx-auto">
-              <div class="device-mobile-frame">
-                <img class="device-mobile-img" src="assets/img/240x480/img3.jpg" alt="Image Description">
-              </div>
-
-              <div class="position-absolute top-50 translate-middle-y zi-n1" style="right: -7rem;">
-                <img class="img-fluid" src="assets/svg/components/shape-8.svg" alt="SVG" style="width: 10rem;">
+            <figure class="text-center mx-auto">
+              <div class="">
+                <img class="device-mobile-img" src="assets/img/savings.png" alt="Savings">
               </div>
             </figure>
             <!-- End Mobile Device -->
@@ -91,40 +85,24 @@ include "./components/navbar-light.php";
 
           <div class="col-md-6">
             <div class="p-md-5 p-lg-7">
-              <!-- Heading -->
+              
               <div class="mb-7">
-                <h3>Set goals and save automatically</h3>
-                <p>Automatically tuck a little money away every time you get paid and earn 0.24% APY¹ with no hidden fees.</p>
+                <h3 class="display-3">Instant<br>Savings </h3>
+                <p>Enjoy easy and convenient banking at your fingertips. Turn your saving goals into reality with GDIS account you don’t need to visit our branch or wait for our agents just get GDIS card .</p>
               </div>
-              <!-- End Heading -->
-
-              <!-- List Checked -->
-              <ul class="list-checked list-checked-primary mb-0">
-                <li class="list-checked-item">Create up to five savings goals</li>
-                <li class="list-checked-item">Change your contribution anytime</li>
-                <li class="list-checked-item">Transfer to your spending account instantly</li>
-              </ul>
-              <!-- End List Checked -->
+ 
             </div>
           </div>
-          <!-- End Col -->
         </div>
-        <!-- End Row -->
       </div>
-      <!-- End Features -->
-
       <!-- Features -->
       <div class="container overflow-hidden content-space-b-1 content-space-b-md-3">
         <div class="row justify-content-end align-items-md-center">
           <div class="col-md-6 order-md-2 mb-7 mb-md-0">
             <!-- Mobile Device -->
-            <figure class="device-mobile text-center mx-auto">
-              <div class="device-mobile-frame">
-                <img class="device-mobile-img" src="assets/img/240x480/img1.jpg" alt="Image Description">
-              </div>
-
-              <div class="position-absolute top-50 translate-middle-y zi-n1" style="right: -7rem;">
-                <img class="img-fluid" src="assets/svg/components/shape-1.svg" alt="SVG" style="width: 10rem;">
+            <figure class="text-center mx-auto">
+              <div class="">
+                <img class="device-mobile-img" src="assets/img/ussd.png" alt="USSD">
               </div>
             </figure>
             <!-- End Mobile Device -->
@@ -135,24 +113,14 @@ include "./components/navbar-light.php";
             <div class="p-md-5 p-lg-7">
               <!-- Heading -->
               <div class="mb-7">
-                <h3>Use your card to spend confidently</h3>
-                <p>Get a shiny new debit card when you set up a spending account in Space Wallet. Plus, earn 6X more interest³ than the national average.</p>
+                <h3 class="display-3">USSD<br>*7006*673#</h3>
+                <p>With No data required, simply dial *7006*673# codes on your mobile phone to Open account, Save, transfer, withdraw your money at any time. </p>
               </div>
-              <!-- End Heading -->
-
-              <!-- List Checked -->
-              <ul class="list-checked list-checked-primary mb-0">
-                <li class="list-checked-item">No hidden fees</li>
-                <li class="list-checked-item">Free withdrawals at 32,000 ATMs nationwide</li>
-              </ul>
-              <!-- End List Checked -->
+              
             </div>
           </div>
-          <!-- End Col -->
         </div>
-        <!-- End Row -->
       </div>
-      <!-- End Features -->
 
 
 
@@ -174,8 +142,8 @@ include "./components/navbar-light.php";
 
                       </span>
 
-                      <h5>Paychecks</h5>
-                      <p>Quickly view your paychecks and a simple breakdown of your hours, taxes and more.</p>
+                      <h5>Secure digital wallet</h5>
+                      <p>Our wallet are Bank-grade compliant to ensure security of your data electronically.</p>
                     </div>
                   </div>
                   <!-- End Col -->
@@ -190,8 +158,8 @@ include "./components/navbar-light.php";
 
                       </span>
 
-                      <h5>Transaction records</h5>
-                      <p>Get a clear record of your debit card activity, so you can track your transactions.</p>
+                      <h5>Freedom of Saving</h5>
+                      <p>Save money on your terms with GDIS you can start with as low as N100 daily.</p>
                     </div>
                   </div>
                   <!-- End Col -->
@@ -209,8 +177,8 @@ include "./components/navbar-light.php";
 
                       </span>
 
-                      <h5>Paycheck splitter</h5>
-                      <p>Use the paycheck splitter to automatically route your paycheck into different accounts.</p>
+                      <h5>Money Transfer</h5>
+                      <p>Instantly move money from your wallet into any of your savings bank account.</p>
                     </div>
                   </div>
                   <!-- End Col -->
@@ -225,8 +193,8 @@ include "./components/navbar-light.php";
 
                       </span>
 
-                      <h5>No hidden fees</h5>
-                      <p>We eliminated fees and built tools to help you pay less interest.</p>
+                      <h5>No hidden charges</h5>
+                      <p>We believe in transparency, apart from our transfer charge we don’t charges for anything else.</p>
                     </div>
                   </div>
                   <!-- End Col -->
@@ -252,18 +220,18 @@ include "./components/navbar-light.php";
       <div class="container content-space-1 content-space-md-3">
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-7">
-          <h3>The backbone for internet business</h3>
-          <p class="fs-6">A technology-first approach to payments and finance</p>
+          <h3>GDIS Merchant Agent</h3>
+          <p class="fs-6">Earn up to 200,000 monthly by becoming an GDIS Agent</p>
         </div>
         <!-- End Heading -->
 
         <div class="row">
           <div class="col-sm-6 col-md-4 mb-3 mb-sm-5 mb-md-7">
             <!-- Card -->
-            <a class="card card-lg card-transition bg-soft-primary-light shadow-none h-100" href="documentation/index.html">
+            <a class="card card-lg card-transition bg-soft-primary-light shadow-none h-100" href="become-an-agent">
               <div class="card-header">
-                <h5 class="card-title text-inherit">Documentation</h5>
-                <p class="card-text text-body">Discover how to build and maintain coding systems.</p>
+                <h5 class="card-title text-inherit">Become an Agent</h5>
+                <p class="card-text text-body">Sign up for free and start earning.</p>
               </div>
               <div class="card-body">
                 <img class="card-img" src="assets/svg/illustrations/frame-docs.svg" alt="Image Description">
@@ -275,10 +243,10 @@ include "./components/navbar-light.php";
 
           <div class="col-sm-6 col-md-4 mb-3 mb-sm-5 mb-md-7">
             <!-- Card -->
-            <a class="card card-lg card-transition bg-soft-warning shadow-none h-100" href="snippets/index.html">
+            <a class="card card-lg card-transition bg-soft-warning shadow-none h-100" href="find-agents">
               <div class="card-header">
-                <h5 class="card-title text-inherit">Snippets</h5>
-                <p class="card-text text-body">Start browsing our snippets pages to match Bootstrap's level of quality.</p>
+                <h5 class="card-title text-inherit">Locate an Agent</h5>
+                <p class="card-text text-body">Find and contact GDIS agent close to you.</p>
               </div>
               <div class="card-body">
                 <img class="card-img" src="assets/svg/illustrations/frame-snippets.svg" alt="Image Description">
@@ -290,13 +258,13 @@ include "./components/navbar-light.php";
 
           <div class="col-sm-6 col-md-4 mb-3 mb-sm-5 mb-md-7">
             <!-- Card -->
-            <a class="card card-lg card-transition bg-soft-success shadow-none h-100" href="landing-services-growth.html#">
+            <a class="card card-lg card-transition bg-soft-success shadow-none h-100" href="refer-to-earn">
               <div class="card-header">
                 <div class="d-flex align-items-center">
-                  <h5 class="card-title text-inherit mb-0">Demos</h5>
+                  <h5 class="card-title text-inherit mb-0">Refer and Earn</h5>
                   <span class="badge bg-soft-secondary text-secondary rounded-pill ms-1">Coming soon</span>
                 </div>
-                <p class="card-text text-body">Apart from 30+ HTML-pages, the theme comes with several demos.</p>
+                <p class="card-text text-body">Now can refer GDIS to you family and friends and earn money.</p>
               </div>
               <div class="card-body">
                 <img class="card-img" src="assets/svg/illustrations/frame-layouts.svg" alt="Image Description">
@@ -311,7 +279,7 @@ include "./components/navbar-light.php";
         <!-- Info -->
         <div class="text-center">
           <p class="mb-0">Have a question?</p>
-          <a class="link" href="page-contacts.html">Contact our sales team <i class="bi-chevron-right small ms-1"></i></a>
+          <a class="link" href="contact">Contact our sales team <i class="bi-chevron-right small ms-1"></i></a>
         </div>
         <!-- End Info -->
       </div>
@@ -322,7 +290,8 @@ include "./components/navbar-light.php";
         <div class="container content-space-1 content-space-md-3">
           <!-- Heading -->
           <div class="w-lg-65 text-center mx-lg-auto mb-7">
-            <h3>Space powers ambitious entrepreneurs all over the world</h3>
+            <h3>Our Happy Clients</h3>
+            <p class="fs-6">Success stories of our client</p>
           </div>
           <!-- End Heading -->
 

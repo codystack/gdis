@@ -285,7 +285,7 @@ include "./components/navbar.php";
       </div>
       <!-- End Cards -->
 
-      <!-- Testimonials -->
+      <!-- Testimonials 
       <div class="bg-soft-primary">
         <div class="container content-space-1 content-space-md-3">
           <!-- Heading -->

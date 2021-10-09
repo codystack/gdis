@@ -486,6 +486,16 @@ progress {
     }
   }
 
+.heroex {
+    margin-left: 8rem!important;
+}
+
+@media (max-device-width: 600px) {
+    .heroex {
+        margin-left: 0rem!important;
+    }
+}
+
 .display-3 {
     font-size: calc(1.525rem + 3.3vw);
     font-weight: 700;

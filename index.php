@@ -10,7 +10,7 @@ include "./components/navbar.php";
           <div class="container-fluid">
             <div class="row justify-content-center justify-content-lg-between vh-100">
               <div class="col-md-6 align-self-center">
-                <div class="col-10 ms-11">
+                <div class="col-12 col-sm-10 heroex">
                   <div class="mb-8 mt-1 mobile-text">
                     <h1 class="display-2 text-primary mb-5 mb-md-6">Akawó now at your finger tips</h1>
                     <p class="mt-5">GDIS helps you achieve your financial goals by providing a secured way to save and with ease. The saving you can access and transfer at anytime.</p>
@@ -63,7 +63,7 @@ include "./components/navbar.php";
 
 
       <!-- Features -->
-      <div class="container overflow-hidden content-space-1 content-space-md-3">
+      <div class="container overflow-hidden mt-5">
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-7">
           <h3 class="display-4">Keep your money<br>where it's safe</h3>
@@ -209,7 +209,7 @@ include "./components/navbar.php";
           <!-- Image -->
           <div class="d-none d-md-block col-md-5 position-absolute top-0 end-0 bg-img-center h-100" style="background-image: url('assets/img/gdis-features.jpg');"></div>
           <div class="d-md-none">
-            <img class="img-fluid" src="assets/img/950x950/img7.jpg" alt="Image Description">
+            <img class="img-fluid" src="assets/img/gdis-features.jpg" alt="Image Description">
           </div>
           <!-- End Image -->
         </div>
@@ -234,7 +234,7 @@ include "./components/navbar.php";
                 <p class="card-text text-body">Sign up for free and start earning.</p>
               </div>
               <div class="card-body">
-                <img class="card-img" src="assets/svg/illustrations/frame-docs.svg" alt="Image Description">
+                <img class="card-img" src="assets/become-an-agent.svg" alt="Image Description">
               </div>
             </a>
             <!-- End Card -->
@@ -249,7 +249,7 @@ include "./components/navbar.php";
                 <p class="card-text text-body">Find and contact GDIS agent close to you.</p>
               </div>
               <div class="card-body">
-                <img class="card-img" src="assets/svg/illustrations/frame-snippets.svg" alt="Image Description">
+                <img class="card-img" src="assets/locate-an-agent.svg" alt="Image Description">
               </div>
             </a>
             <!-- End Card -->
@@ -267,7 +267,7 @@ include "./components/navbar.php";
                 <p class="card-text text-body">Now can refer GDIS to you family and friends and earn money.</p>
               </div>
               <div class="card-body">
-                <img class="card-img" src="assets/svg/illustrations/frame-layouts.svg" alt="Image Description">
+                <img class="card-img" src="assets/ref-and-earn.svg" alt="Image Description">
               </div>
             </a>
             <!-- End Card -->

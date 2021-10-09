@@ -27,7 +27,7 @@ include "./components/navbar.php";
               </div>
               
               
-              <div class="col-sm-10 col-md-6 col-lg-6 mt-7 text-end align-self-center">
+              <div class="col-sm-10 col-md-6 col-lg-6 text-end heroimg align-self-center">
                 <img class="img-fluid" src="assets/img/slide1.png" alt="Image Description">
               </div>
 

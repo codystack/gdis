@@ -58,7 +58,7 @@ include "./components/header.php";
                                             <div class="d-flex align-items-start">
                                                 <div class="flex-grow-1 mt-3">
                                                     <h2 class="mb-3" style="font-weight: bold;color: #0d60d8;">Fund Account</h2>
-                                                    <p class="mb-3">Total Earnings</p>
+                                                    <p class="mb-3">Add more funds<br>to your GDIS account.</p>
                                                     <div class="mb-3 align-items-end">
                                                         <span class="text-dark">Add funds to account <i class="align-middle" style="color: #0d60d8;" data-feather="arrow-right-circle"></i></span>
                                                     </div>
@@ -79,7 +79,7 @@ include "./components/header.php";
                                             <div class="d-flex align-items-start">
                                                 <div class="flex-grow-1 mt-3 mb-3">
                                                     <h2 class="mb-3" style="font-weight: bold;color: #e7439c;">Withdraw</h2>
-                                                    <p class="mb-3">Total Earnings</p>
+                                                    <p class="mb-3" style="color: #e7439c;">Withdraw funds from<br>your GDIS account.</p>
                                                     <div class="mb-0">
                                                         <span class="text-dark">Make withdrawal <i class="align-middle" style="color: #e7439c;" data-feather="arrow-right-circle"></i></span>
                                                     </div>

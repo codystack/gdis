@@ -490,6 +490,13 @@ progress {
     margin-left: 8rem!important;
 }
 
+
+@media (max-device-width: 600px) {
+    .heroimg {
+        margin-top: -160px !important;
+    }
+}
+
 @media (max-device-width: 600px) {
     .heroex {
         margin-left: 0rem!important;

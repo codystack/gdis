@@ -48,12 +48,12 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingOne">
                 <a class="accordion-button" role="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  What methods of payments are supported?
+                  How do I register as a customer
                 </a>
               </div>
               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  Simply visit the companies website address at www.gdisagency.com and enroll or dial *7006*673#.
                 </div>
               </div>
             </div>
@@ -63,12 +63,12 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingTwo">
                 <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Can I cancel at anytime?
+                  Where can I get the GDIS card
                 </a>
               </div>
               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  GDIS card can be gotten from our Marketers, Agents, Distributors depending on your location, For faster response you can reach out to this number +234 913 779 8330.
                 </div>
               </div>
             </div>
@@ -78,12 +78,12 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingThree">
                 <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  How do I get a receipt for my transactions?
+                  What is the short code for loading the GDIS card
                 </a>
               </div>
               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  Dial *7006*673*PIN#.
                 </div>
               </div>
             </div>
@@ -93,12 +93,12 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingFour">
                 <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                  Do i need BVN?
+                  How much is GDIS charging for each transaction
                 </a>
               </div>
               <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  The Charges is as low as 0.2%.
                 </div>
               </div>
             </div>
@@ -108,12 +108,12 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingFive">
                 <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                  How do I get access to an agent?
+                  What is GDIS card
                 </a>
               </div>
               <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  GDIS card is the card that contains voucher PIN used for recharging .
                 </div>
               </div>
             </div>
@@ -123,16 +123,108 @@ include "./components/navbar.php";
             <div class="accordion-item">
               <div class="accordion-header" id="headingSix">
                 <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                  How can i fund my wallet?
+                  What do I stand to gain as a customer
                 </a>
               </div>
               <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionFAQ">
                 <div class="accordion-body">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec erat tortor. Duis faucibus turpis eget diam rutrum, id ultrices elit rutrum. Pellentesque ut venenatis eros. Sed mattis fringilla viverra. Suspendisse tristique magna a leo mattis fermentum. Donec dolor arcu, vestibulum ut ornare vel, sodales et nulla. Suspendisse euismod lorem vel est accumsan, et gravida nisl suscipit. Sed sed orci et mi molestie scelerisque. Quisque gravida ipsum quam, ac malesuada mauris facilisis non. Aenean ullamcorper sem non dapibus finibus. Curabitur at accumsan metus, eu varius ante.
+                  Saving at your own convenience, easy withdrawal of your money, interest assured.
                 </div>
               </div>
             </div>
             <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading7">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                  What is the short code for checking wallet balance
+                </a>
+              </div>
+              <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                  Simply dial *7006*673*225#.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading8">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                  Can I withdraw the money in my wallet to my Bank account
+                </a>
+              </div>
+              <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                  Yes.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading9">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                  What is the difference between registering on the web and dialing the USSD code
+                </a>
+              </div>
+              <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                  Registering on the web we get your full details updated while with USSD you have to follow a process.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading10">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                  After dialing *7006*673# USSD code What next
+                </a>
+              </div>
+              <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                Note: your number is saved as 234 81xxxxx91 not 081 xxxxx91; step1: Enter a password for LogIn . step2: Set up a 4 digit withdrawal PIN . step3: visit the companies website at www.gdisgency.com step4: log In to your dashboard using your number which must start with 234 and password created. step5: click on the broken image at the top left on the dashboard to update your profile.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading11">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                  Can I withdraw the Money anytime
+                </a>
+              </div>
+              <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                  Yes offcourse so far your mobile phone is with you.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+            <!-- Accordion Item -->
+            <div class="accordion-item">
+              <div class="accordion-header" id="heading12">
+                <a class="accordion-button collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                  Will I get interest after saving a huge sum of money in the Platform
+                </a>
+              </div>
+              <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12" data-bs-parent="#accordionFAQ">
+                <div class="accordion-body">
+                  Yes, depends on how long the money is been saved.
+                </div>
+              </div>
+            </div>
+            <!-- End Accordion Item -->
+
+
           </div>
         </div>
         <!-- End Accordion -->

@@ -479,6 +479,12 @@ progress {
         font-size:4.5rem
     }
 }
+  
+  @media (max-device-width: 600px) {
+    .mobile-text {
+      text-align: center !important;
+    }
+  }
 
 .display-3 {
     font-size: calc(1.525rem + 3.3vw);
@@ -8285,6 +8291,10 @@ textarea.form-control-lg {
     margin-top: 4.5rem!important
 }
 
+.mt-11 {
+    margin-top: 14.5rem!important
+}
+
 .mt-auto {
     margin-top: auto!important
 }
@@ -8427,6 +8437,10 @@ textarea.form-control-lg {
 
 .ms-10 {
     margin-left: 4.5rem!important
+}
+
+.ms-11 {
+    margin-left: 8rem!important
 }
 
 .ms-auto {

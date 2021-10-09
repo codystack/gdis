@@ -184,7 +184,7 @@
 							<h3>Sign in to your account!</h3>
 							<p>Nice to see you again! Please log into your account.</p>
 							<!-- Form START -->
-							<form class="mt-4">
+							<form action="dashboard" class="mt-4">
 								<!-- Email -->
 							  <div class="mb-3">
 							    <label class="form-label" for="exampleInputEmail1">Email address</label>

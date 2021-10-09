@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row content-space-1">
 
-          <div class="col-sm mb-7 mb-sm-0">
+          <div class="col-lg-3 col-6 col-sm-4 mb-5 mb-lg-0">
             <span class="text-cap text-primary-light">Resources</span>
 
             <!-- List -->
@@ -16,7 +16,7 @@
           </div>
           <!-- End Col -->
 
-          <div class="col-sm mb-7 mb-sm-0">
+          <div class="col-lg-3 col-6 col-sm-4 mb-5 mb-lg-0">
             <span class="text-cap text-primary-light">Company</span>
 
             <!-- List -->
@@ -29,7 +29,7 @@
           </div>
           <!-- End Col -->
 
-          <div class="col-sm">
+          <div class="col-lg-3 col-6 col-sm-4 mb-5 mb-lg-0">
             <span class="text-cap text-primary-light">Platform</span>
 
             <!-- List -->
@@ -42,7 +42,7 @@
           </div>
           <!-- End Col -->
 
-          <div class="col-sm">
+          <div class="col-lg-3 col-6 col-sm-4 mb-5 mb-lg-0">
             <span class="text-cap text-primary-light">Legal</span>
 
             <!-- List -->
@@ -59,7 +59,7 @@
 
         <div class="border-top border-white-10"></div>
 
-        <div class="row align-items-md-end py-5">
+        <div class="row align-items-md-end py-5 mobile-text">
           <div class="col-md mb-3 mb-md-0">
             <p class="text-white small mt-0 mb-0">© <script>document.write(new Date().getFullYear());</script> Growing Digital Income Store Agency&trade; | All rights reserved.</p>
           </div>

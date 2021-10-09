@@ -6,28 +6,28 @@ include "./components/navbar.php";
     <main id="content" role="main">
       <!-- Hero -->
       <div class="">
-        <div class="bg-soft-primary-light">
-          <div class="container">
-            <div class="row justify-content-center justify-content-lg-between">
-              <div class="col-md-6">
-                <!-- Heading -->
-                <div class="mb-8 mt-9">
-                  <h1 class="display-2 text-primary mb-5 mb-md-6">Akawó now at your finger tips</h1>
-                  <p class="mt-5">GDIS helps you achieve your financial goals by providing a secured way to save and with ease. The saving you can access and transfer at anytime.</p>
-                </div>
-                <!-- End Heading -->
+        <div class="bg-soft-primary-white vh-100">
+          <div class="container-fluid">
+            <div class="row justify-content-center justify-content-lg-between vh-100">
+              <div class="col-md-6 align-self-center">
+                <div class="col-10 ms-11">
+                  <div class="mb-8 mt-1 mobile-text">
+                    <h1 class="display-2 text-primary mb-5 mb-md-6">Akawó now at your finger tips</h1>
+                    <p class="mt-5">GDIS helps you achieve your financial goals by providing a secured way to save and with ease. The saving you can access and transfer at anytime.</p>
+                  </div>
+                  <!-- End Heading -->
 
-                <div class="d-grid d-sm-flex gap-3">
-                  <a class="btn btn-dark" href="auth/login">Create free account <i class="bi-chevron-right small ms-1"></i></a>
-                  <a class="btn btn-ghost-primary" href="how-it-works" role="button">
-                    See how it works <i class="bi-play-circle-fill ms-1"></i>
-                  </a>
+                  <div class="d-sm-flex gap-3 mobile-text">
+                    <a class="btn btn-dark" href="auth/login">Create free account <i class="bi-chevron-right small ms-1"></i></a>
+                    <a class="btn btn-ghost-primary" href="how-it-works" role="button">
+                      See how it works <i class="bi-play-circle-fill ms-1"></i>
+                    </a>
+                  </div>
                 </div>
-
               </div>
               
               
-              <div class="col-sm-10 col-md-6 col-lg-6 mt-7 text-end">
+              <div class="col-sm-10 col-md-6 col-lg-6 mt-7 text-end align-self-center">
                 <img class="img-fluid" src="assets/img/slide1.png" alt="Image Description">
               </div>
 

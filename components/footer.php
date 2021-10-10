@@ -34,7 +34,7 @@
 
             <!-- List -->
             <ul class="list-unstyled list-py-1 mb-0">
-              <li><a class="link-sm link-light" href="find-agent">Locate an Agent</a></li>
+              <li><a class="link-sm link-light" href="find-agents">Locate an Agent</a></li>
               <li><a class="link-sm link-light" href="become-an-agent">Become an Agent</a></li>
               <li><a class="link-sm link-light" href="#">Support</a></li>
             </ul>

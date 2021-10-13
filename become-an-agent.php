@@ -189,8 +189,16 @@ include "./components/navbar.php";
 
                       <!-- Form -->
                       <div class="mb-4">
-                        <label class="form-label" for="registerEmail">Local Government</label>
-                        <input type="text" class="form-control form-control-lg" name="lga" id="lga" placeholder="Onitsha North" aria-label="example@site.com" required data-msg="Please select LGA.">
+                          <div class="row">
+                              <div class="col-sm mb-4 mb-sm-0">
+                                <label class="form-label" for="registerEmail">Local Government</label>
+                                <input type="text" class="form-control form-control-lg" name="lga" id="lga" placeholder="Onitsha North" aria-label="example@site.com" required data-msg="Please select LGA.">
+                              </div>
+                              <div class="col-sm mb-4 mb-sm-0">
+                                  <label class="form-label" for="ShopLocation">Shop Location</label>
+                                  <input type="text" class="form-control form-control-lg" name="lga" id="lga" placeholder="Enter shop location" aria-label="example@site.com" required data-msg="Please enter shop location">
+                              </div>
+                          </div>
                       </div>
                       <!-- End Form -->
 

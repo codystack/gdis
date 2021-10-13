@@ -140,9 +140,8 @@ include "./components/header.php";
                                 </div>
                                 
                                 <div class="col-12 col-sm-12 col-xxl-12 d-flex">
-                                    <div class="card illustration flex-fill" style="background: url('./assets/images/ad21.png');background-repeat: no-repeat, repeat;background-position: center;background-size: contain;height: 300px;">
-
-                                    </div>
+                                    <div class="d-none d-md-block card illustration flex-fill" style="background: url('./assets/images/ad21.png');background-repeat: no-repeat, repeat;background-position: center;background-size: contain;height: 300px;"></div>
+                                    <div class="d-md-none card illustration flex-fill" style="background: url('./assets/images/ad21.png');background-repeat: no-repeat, repeat;background-position: center;background-size: contain;height: 100px;"></div>
                                 </div>
                             </div>
                         </div>

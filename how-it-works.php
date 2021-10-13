@@ -187,7 +187,14 @@ include "./components/navbar-dark.php";
             </div>
             <!-- End Col -->
           </div>
-          <!-- End Row -->
+
+            <!-- Info -->
+            <div class="text-center mt-10 mb-0">
+                <p class="mb-0">For help call customer service</p>
+                <a class="link" href="#">018880285 or 09137798330</a>
+            </div>
+            <!-- End Info -->
+
         </div>
       </div>
       <!-- End Features Step -->

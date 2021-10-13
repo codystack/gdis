@@ -68,11 +68,11 @@
             <!-- Socials -->
             <ul class="list-inline mb-0">
               <li class="list-inline-item">
-                <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="#">
+                <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="https://web.facebook.com/gdisagency/">
                   <i class="bi-facebook"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
+              <!--<li class="list-inline-item">
                 <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="#">
                   <i class="bi-twitter"></i>
                 </a>
@@ -81,10 +81,10 @@
                 <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="#">
                   <i class="bi-instagram"></i>
                 </a>
-              </li>
+              </li>-->
               <li class="list-inline-item">
-                <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="#">
-                  <i class="bi-whatsapp"></i>
+                <a class="btn btn-icon btn-sm btn-soft-light rounded-circle" href="https://linkedin.com/company/Growing-Digital-Income-Store-Agency">
+                  <i class="bi-linkedin"></i>
                 </a>
               </li>
             </ul>

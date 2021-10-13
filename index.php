@@ -47,7 +47,7 @@ include "./components/navbar.php";
         </div>
         <!-- End Heading -->
 
-        <div class="row justify-content-end align-items-md-center">
+        <div class="row justify-content-end align-items-md-center mt-5">
           <div class="col-md-6 mb-7 mb-md-0">
             <!-- Mobile Device -->
             <figure class="text-center mx-auto">

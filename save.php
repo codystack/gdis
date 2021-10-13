@@ -116,7 +116,7 @@ include "./components/navbar.php";
 
               </span>
 
-              <p>Set targets and save together with others to meet them. Juicy returns await you.</p>
+              <p>An instant withdraw system to your personal account with or without the network of your bank.</p>
 
             </div>
           </div>

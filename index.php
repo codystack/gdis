@@ -43,7 +43,7 @@ include "./components/navbar.php";
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-7">
           <h3 class="display-4">Keep your money<br>where it's safe</h3>
-          <p class="fs-6">We believe you deserve your hard-earned money<br>as soon as possible.</p>
+          <p class="fs-6">No bank service no problem we got you covered 24/7</p>
         </div>
         <!-- End Heading -->
 

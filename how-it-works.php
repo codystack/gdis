@@ -49,15 +49,15 @@ include "./components/navbar-dark.php";
               <!-- Tab Content -->
               <div class="tab-content" id="step-TabFeaturesContent">
                 <div class="tab-pane fade show active" id="stepFeaturesOne" role="tabpanel" aria-labelledby="stepFeaturesOne-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img4.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwUSSD.png" alt="Image Description">
                 </div>
 
                 <div class="tab-pane fade" id="stepFeaturesTwo" role="tabpanel" aria-labelledby="stepFeaturesTwo-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img3.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwUSSD.png" alt="Image Description">
                 </div>
 
                 <div class="tab-pane fade" id="stepFeaturesThree" role="tabpanel" aria-labelledby="stepFeaturesThree-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img2.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwUSSD.png" alt="Image Description">
                 </div>
               </div>
               <!-- End Tab Content -->
@@ -68,46 +68,45 @@ include "./components/navbar-dark.php";
               <div class="pe-md-5">
                 <!-- Heading -->
                 <div class="mb-7">
-                  <span class="text-cap">Seamless experience</span>
-                  <h3>Simplify your workflow</h3>
+                  <span class="text-cap">Quite account access</span>
+                  <h3>Use USSD Code</h3>
                 </div>
                 <!-- End Heading -->
 
                 <!-- Step -->
                 <ul class="nav step step-icon-sm step-border-last-0" id="step-TabFeatures" role="tablist">
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper active" href="landing-consulting.html#stepFeaturesOne" id="stepFeaturesOne-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesOne" role="tab" aria-controls="stepFeaturesOne" aria-selected="true">
+                    <a class="step-content-wrapper active" href="#stepFeaturesOne" id="stepFeaturesOne-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesOne" role="tab" aria-controls="stepFeaturesOne" aria-selected="true">
                       <span class="step-icon step-icon-soft-secondary">1</span>
                       <div class="step-content">
-                        <h6 class="step-title">All-in-one</h6>
-                        <p class="step-text">Achieve virtually any design and layout from within the one template.</p>
+                        <h6 class="step-title">Dail *7006*673#</h6>
+                        <p class="step-text">Simply follow the onscreen prompts. open an account, Fund account, withdraw fund, etc.</p>
                       </div>
                     </a>
                   </li>
 
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper" href="landing-consulting.html#stepFeaturesTwo" id="stepFeaturesTwo-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesTwo" role="tab" aria-controls="stepFeaturesTwo" aria-selected="false">
+                    <a class="step-content-wrapper" href="#stepFeaturesTwo" id="stepFeaturesTwo-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesTwo" role="tab" aria-controls="stepFeaturesTwo" aria-selected="false">
                       <span class="step-icon step-icon-soft-secondary">2</span>
                       <div class="step-content">
-                        <h6 class="step-title">Less routine – more creativity</h6>
-                        <p class="step-text">Automate best strategies and focus more on generating hq creatives.</p>
+                        <h6 class="step-title">Open Account</h6>
+                        <p class="step-text">Enter a password for Login you can set up an account without completing any form. <br>No airtime or data needed to open an account.</p>
                       </div>
                     </a>
                   </li>
 
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper" href="landing-consulting.html#stepFeaturesThree" id="stepFeaturesThree-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesThree" role="tab" aria-controls="stepFeaturesThree" aria-selected="false">
+                    <a class="step-content-wrapper" href="#stepFeaturesThree" id="stepFeaturesThree-tab" data-bs-toggle="tab" data-bs-target="#stepFeaturesThree" role="tab" aria-controls="stepFeaturesThree" aria-selected="false">
                       <span class="step-icon step-icon-soft-secondary">3</span>
                       <div class="step-content">
-                        <h6 class="step-title">Style your workflow how you want to fit your brand</h6>
-                        <p class="step-text">Find what you need in one template and combine features at will.</p>
+                        <h6 class="step-title">Instant Withdrawal</h6>
+                        <p class="step-text">Step 2 command to simplify request and instant withdraw to your personal account with or without the network of your bank. <br>Dail *7006*673*225# to check balance.</p>
                       </div>
                     </a>
                   </li>
                 </ul>
                 <!-- End Step -->
 
-                <a class="link" href="landing-consulting.html#">Learn more <i class="bi-chevron-right small ms-1"></i></a>
               </div>
             </div>
             <!-- End Col -->
@@ -126,15 +125,15 @@ include "./components/navbar-dark.php";
               <!-- Tab Content -->
               <div class="tab-content" id="step-TabServicesContent">
                 <div class="tab-pane fade show active" id="stepServicesOne" role="tabpanel" aria-labelledby="stepServicesOne-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img1.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwWEB.png" alt="Image Description">
                 </div>
 
                 <div class="tab-pane fade" id="stepServicesTwo" role="tabpanel" aria-labelledby="stepServicesTwo-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img2.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwWEB.png" alt="Image Description">
                 </div>
 
                 <div class="tab-pane fade" id="stepServicesThree" role="tabpanel" aria-labelledby="stepServicesThree-tab">
-                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/mockups/img3.png" alt="Image Description">
+                  <img class="img-fluid shadow-xl rounded-2" src="assets/img/hiwWEB.png" alt="Image Description">
                 </div>
               </div>
               <!-- End Tab Content -->
@@ -145,46 +144,45 @@ include "./components/navbar-dark.php";
               <div class="ps-md-5">
                 <!-- Heading -->
                 <div class="mb-7">
-                  <span class="text-cap">Get started</span>
-                  <h3>Start quickly</h3>
+                  <span class="text-cap">Save at your convenience</span>
+                  <h3>Online savings portal</h3>
                 </div>
                 <!-- End Heading -->
 
                 <!-- Step -->
                 <ul class="nav step step-icon-sm step-border-last-0" id="step-TabServices" role="tablist">
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper active" href="landing-consulting.html#stepServicesOne" id="stepServicesOne-tab" data-bs-toggle="tab" data-bs-target="#stepServicesOne" role="tab" aria-controls="stepServicesOne" aria-selected="true">
+                    <a class="step-content-wrapper active" href="#stepServicesOne" id="stepServicesOne-tab" data-bs-toggle="tab" data-bs-target="#stepServicesOne" role="tab" aria-controls="stepServicesOne" aria-selected="true">
                       <span class="step-icon step-icon-soft-secondary">1</span>
                       <div class="step-content">
-                        <h6 class="step-title">Industry-leading documentation</h6>
-                        <p class="step-text">Achieve virtually any design and layout from within the one template.</p>
+                        <h6 class="step-title">Set up a free account</h6>
+                        <p class="step-text">Logon to www.gdisagency.com  ‘sign up’ or login to our secure user-friendly dashboard to enjoy the convenience of managing your finances quickly and easily at a time that suits you. </p>
                       </div>
                     </a>
                   </li>
 
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper" href="landing-consulting.html#stepServicesTwo" id="stepServicesTwo-tab" data-bs-toggle="tab" data-bs-target="#stepServicesTwo" role="tab" aria-controls="stepServicesTwo" aria-selected="false">
+                    <a class="step-content-wrapper" href="#stepServicesTwo" id="stepServicesTwo-tab" data-bs-toggle="tab" data-bs-target="#stepServicesTwo" role="tab" aria-controls="stepServicesTwo" aria-selected="false">
                       <span class="step-icon step-icon-soft-secondary">2</span>
                       <div class="step-content">
-                        <h6 class="step-title">Support for the developer community</h6>
-                        <p class="step-text">We actively contribute to open-source projects—giving back to the community through development, patches, and sponsorships.</p>
+                        <h6 class="step-title">Fund Account</h6>
+                        <p class="step-text">With just few clicks you can fund your account with GDIS card, Transfer fund, get real-time balances on your account and locate an Agent close to you.</p>
                       </div>
                     </a>
                   </li>
 
                   <li class="step-item" role="presentation">
-                    <a class="step-content-wrapper" href="landing-consulting.html#stepServicesThree" id="stepServicesThree-tab" data-bs-toggle="tab" data-bs-target="#stepServicesThree" role="tab" aria-controls="stepServicesThree" aria-selected="false">
+                    <a class="step-content-wrapper" href="#stepServicesThree" id="stepServicesThree-tab" data-bs-toggle="tab" data-bs-target="#stepServicesThree" role="tab" aria-controls="stepServicesThree" aria-selected="false">
                       <span class="step-icon step-icon-soft-secondary">3</span>
                       <div class="step-content">
-                        <h6 class="step-title">Explore the Snippets tools</h6>
-                        <p class="step-text">Find what you need in one template and combine features at will.</p>
+                        <h6 class="step-title">Withdraw fund</h6>
+                        <p class="step-text">For easy access to your account(s) from anywhere in the world. You can setup a withdrawal account to send your money instantly and view transaction history.</p>
                       </div>
                     </a>
                   </li>
                 </ul>
                 <!-- End Step -->
 
-                <a class="link" href="landing-consulting.html#">Learn more <i class="bi-chevron-right small ms-1"></i></a>
               </div>
             </div>
             <!-- End Col -->

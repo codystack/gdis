@@ -9,8 +9,8 @@
             <!-- List -->
             <ul class="list-unstyled list-py-1 mb-0">
               <li><a class="link-sm link-light" href="faq">FAQs</a></li>
-              <li><a class="link-sm link-light" href="testimonials">Customer Stories</a></li>
-              <li><a class="link-sm link-light" href="#">How it Works</a></li>
+              <li><a class="link-sm link-light" href="#">Customer Stories</a></li>
+              <li><a class="link-sm link-light" href="how-it-works">How it Works</a></li>
             </ul>
             <!-- End List -->
           </div>
@@ -22,7 +22,7 @@
             <!-- List -->
             <ul class="list-unstyled list-py-1 mb-0">
               <li><a class="link-sm link-light" href="about">About</a></li>
-              <li><a class="link-sm link-light" href="career">Careers <span class="badge bg-warning text-dark rounded-pill ms-2">We're hiring</span></a></li>
+              <li><a class="link-sm link-light" href="#">Careers <span class="badge bg-warning text-dark rounded-pill ms-2">We're hiring</span></a></li>
               <li><a class="link-sm link-light" href="contact">Contacts</a></li>
             </ul>
             <!-- End List -->
@@ -36,7 +36,7 @@
             <ul class="list-unstyled list-py-1 mb-0">
               <li><a class="link-sm link-light" href="find-agents">Locate an Agent</a></li>
               <li><a class="link-sm link-light" href="become-an-agent">Become an Agent</a></li>
-              <li><a class="link-sm link-light" href="#">Support</a></li>
+              <li><a class="link-sm link-light" href="contact">Support</a></li>
             </ul>
             <!-- End List -->
           </div>

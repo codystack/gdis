@@ -209,7 +209,7 @@ include "./components/navbar.php";
                     </span>
                   </div>
                   <div class="flex-grow-1 ms-2">
-                    <span>0913 779 8330</span>
+                    <span>+234 01 888 0285 or 0802 784 2020</span>
                   </div>
                 </div>
               </li>
